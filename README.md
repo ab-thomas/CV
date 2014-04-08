@@ -99,5 +99,5 @@ Tweet me at [@ab_thomas]
   [Makers Academy]: http://www.makersacademy.com
   [linkedin]: http://www.linkedin.com/in/abrahamt1
   [@ab_thomas]: https://twitter.com/ab_thomas
-  [askadev.com]: http://staging-askadev.herokuapp.com
+  [askadev.com]: http://testing-noddy.herokuapp.com/
   
