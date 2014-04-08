@@ -25,7 +25,7 @@ Skills
 ------
 | Approaches | Languages | Like to learn |
 |:---------- |:---------| :------------- |
-| TDD/BDD: RSpec + Cucumber + Capybara, Pair-Programming, Agile-Development | Ruby 2.0 JS HTML5 CSS3 Rails 4 Heroku | C, C++, Node.js|
+| TDD/BDD: RSpec + Cucumber + Capybara, Pair-Programming, Agile-Development | Ruby 2.0 JS HTML5 CSS3 Rails 4 Heroku | RoR/JS inside out, C, Node.js|
 
 Experience
 ----------
