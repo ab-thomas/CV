@@ -3,8 +3,9 @@ Abraham Thomas
 
 I'm a Ruby on Rails web developer, based in London. I’m a friendly, professional and committed person, with a passion for experimentation and collaboration. I have a keen eye for detail, and I love problem-solving; writing tests, iterating change, and building functional systems which help users in their day-to-day. I work great as part of a team and I’m also a self-starter, having founded a technology start up on Europe’s only £1million start up accelerator.
 
-
-| [askadev.com] | 
+Recent Project
+---------
+| [askadev.com] [(repo)](https://github.com/ab-thomas/Hotline)| 
 |:------ |
 People new to coding often find it difficult to explain their code problems in text-form on services such as Stackoverflow. This is because they lack the knowledge and experience to communicate with other developers in a technical way. To lower the barrier to getting help, I conceived askadev.com. Users can submit a video question, as well as their code, and receive a video response. Askadev.com also facilitates live pair-coding, helping people overcome problems quicker and learn faster. 
 Technologies used: OAuth from Google and integrated Google hangouts for video. Other technologies include Ruby on Rail, Postgresql JS, jQuery, HTML and CSS.
