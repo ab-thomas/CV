@@ -15,7 +15,7 @@ Interests
 ---------
 I have a passion for technology businesses, and love reading and contributing to conversation online about emerging start ups, new platforms, and innovation in the technology scene. I also love cycling, have a cat, and I paint with oils. 
 
-- [Click here to see one of my paintings](http://i.imgur.com/ZenP5qr.jpg?1)
+- [View some of my work](https://www.flickr.com/photos/92746444@N03/)
 
 I'm also a fan of digital art and on my Masters degree in Digital Media, I taught myself audio-visual programming using [Max 5](http://cycling74.com/). In an 8-month period, with no previous programming experience, I built a sound-reactive visual application for VJs. I went on to support international DJs with my visual programme in nightclubs in Newcastle.
 
