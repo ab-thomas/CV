@@ -7,7 +7,10 @@ Recent Project
 ---------
 | [Hotline] | 
 |:------ |
-People new to coding often find it difficult to explain their code problems in text-form on services such as Stackoverflow. This is because they lack the knowledge and experience to communicate with other developers in a technical way. To lower the barrier to getting help, I conceived askadev.com. Users can submit a video question, as well as their code, and receive a video response. Askadev.com also facilitates live pair-coding, helping people overcome problems quicker and learn faster. 
+~~People new to coding often find it difficult to explain their code problems in text-form on services such as Stackoverflow. This is because they lack the knowledge and experience to communicate with other developers in a technical way. To lower the barrier to getting help, I conceived askadev.com. Users can submit a video question, as well as their code, and receive a video response. Askadev.com also facilitates live pair-coding, helping people overcome problems quicker and learn faster.~~
+
+Pivot: Level up your coding skills with bite-sized screencasts. Submit videos and request video tutorials to be made.
+
 Technologies used: OAuth from Google and integrated Google hangouts for video. Other technologies include Ruby on Rail, Postgresql JS, jQuery, HTML and CSS.
 
 
@@ -100,7 +103,7 @@ Tweet me at [@ab_thomas]
   [Makers Academy]: http://www.makersacademy.com
   [linkedin]: http://www.linkedin.com/in/abrahamt1
   [@ab_thomas]: https://twitter.com/ab_thomas
-  [Hotline]: http://testing-noddy.herokuapp.com/
+  [Hotline]: http://www.askadev.com/
   [Repo]: (https://github.com/ab-thomas/Hotline/)
 
   
