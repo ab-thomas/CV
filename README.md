@@ -11,7 +11,7 @@ Recent Project
 
 Pivot: Level up your coding skills with bite-sized screencasts. Submit videos and request video tutorials to be made.
 
-Technologies used: OAuth from Google and integrated Google hangouts for video. Other technologies include Ruby on Rail, Postgresql JS, jQuery, HTML and CSS.
+Technologies used: OAuth from Google and integrated Google hangouts for video. Other technologies include Ruby on Rails, Postgresql, JS, jQuery, HTML and CSS.
 
 
 Interests
